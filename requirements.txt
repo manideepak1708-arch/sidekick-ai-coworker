@@ -1,0 +1,5 @@
+langgraph>=0.2,<2
+gradio>=5,<7
+requests>=2.31,<3
+playwright>=1.45,<2
+pytest>=8,<10
